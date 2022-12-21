@@ -1,17 +1,17 @@
 # Проект 1. Анализ резюме с hh
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/SemenPanin/data_scince/tree/main/project_1#описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/SemenPanin/data_scince/tree/main/project_1#какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/SemenPanin/data_scince/tree/main/project_1#краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/SemenPanin/data_scince/tree/main/project_1#этапы-работы-над-проектом)  
-[5. Результат](https://github.com/SemenPanin/data_scince/tree/main/project_1#результаты)    
-[6. Выводы](https://github.com/SemenPanin/data_scince/tree/main/project_1#выводы) 
+[1. Описание проекта](https://github.com/SemenPanin/data_scince/tree/main/Project_1#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/SemenPanin/data_scince/tree/main/Project_1#какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/SemenPanin/data_scince/tree/main/Project_1#краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/SemenPanin/data_scince/tree/main/Project_1#этапы-работы-над-проектом)  
+[5. Результат](https://github.com/SemenPanin/data_scince/tree/main/Project_1#результаты)    
+[6. Выводы](https://github.com/SemenPanin/data_scince/tree/main/Project_1#выводы) 
 
 ### Описание проекта    
 Проанализировать резюме с hh
 
-:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_1#оглавление)
+:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/Project_1#оглавление)
 
 
 ### Какой кейс решаем?    
@@ -40,7 +40,7 @@
 
 2. Данные о курсах различных валют и акций за указанные периоды.
   
-:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_0#оглавление)
+:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/Project_1#оглавление)
 
 
 ### Этапы работы над проектом  
@@ -52,19 +52,19 @@
 
 4.Очистка данных.
 
-:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_0#оглавление)
+:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/Project_1#оглавление)
 
 
 ### Результаты:  
 Наша программа  преобразовывает, исследует и очищает данные.
 
-:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_0#оглавление)
+:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/Project_1#оглавление)
 
 
 ### Выводы:  
 У нас получилось реализовать задачу.
 
-:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_0#оглавление)
+:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/Project_1#оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень рад вашим отзывам.
