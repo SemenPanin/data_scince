@@ -13,6 +13,8 @@
 
 Проект на гугл диске(https://drive.google.com/drive/u/0/folders/1pDdQh51bABSYx-Jrg0xIz5azwwDhDcP5)
 
+Графики визуализации смотреть тут: (https://github.com/SemenPanin/data_scince/tree/main/Project_1/plotly)
+
 :arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/Project_1#оглавление)
 
 
