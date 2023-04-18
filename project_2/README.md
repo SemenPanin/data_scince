@@ -1,19 +1,19 @@
 # Проект 2. Анализ резюме с hh
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/SemenPanin/data_scince/tree/main/Project_1#описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/SemenPanin/data_scince/tree/main/Project_1#какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/SemenPanin/data_scince/tree/main/Project_1#краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/SemenPanin/data_scince/tree/main/Project_1#этапы-работы-над-проектом)  
-[5. Результат](https://github.com/SemenPanin/data_scince/tree/main/Project_1#результаты)    
-[6. Выводы](https://github.com/SemenPanin/data_scince/tree/main/Project_1#выводы) 
+[1. Описание проекта](https://github.com/SemenPanin/data_scince/tree/main/project_2#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/SemenPanin/data_scince/tree/main/project_2#какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/SemenPanin/data_scince/tree/main/project_2#краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/SemenPanin/data_scince/tree/main/project_2#этапы-работы-над-проектом)  
+[5. Результат](https://github.com/SemenPanin/data_scince/tree/main/project_2#результаты)    
+[6. Выводы](https://github.com/SemenPanin/data_scince/tree/main/project_2#выводы) 
 
 ### Описание проекта    
 Проанализировать резюме с hh
 
 Проект на гугл диске(https://drive.google.com/drive/u/0/folders/1pDdQh51bABSYx-Jrg0xIz5azwwDhDcP5)
 
-:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/Project_1#оглавление)
+:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_2#проект-2-анализ-резюме-с-hh)
 
 
 ### Какой кейс решаем?    
@@ -39,7 +39,7 @@
 ### Краткая информация о данных
 1. Резюме сосискателей с HH.
  
-:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/Project_1#оглавление)
+:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_2#проект-2-анализ-резюме-с-hh)
 
 
 ### Этапы работы над проектом  
@@ -51,19 +51,19 @@
 
 4. Предметный анализ.
 
-:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/Project_1#оглавление)
+:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_2#проект-2-анализ-резюме-с-hh)
 
 
 ### Результаты:  
 Наша программа  анализирует данные и делает запросы в базу данных.
 
-:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/Project_1#оглавление)
+:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_2#проект-2-анализ-резюме-с-hh)
 
 
 ### Выводы:  
 У нас получилось реализовать задачу.
 
-:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/Project_1#оглавление)
+:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_2#проект-2-анализ-резюме-с-hh)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень рад вашим отзывам.
