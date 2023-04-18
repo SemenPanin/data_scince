@@ -1,4 +1,4 @@
-# Проект 2. Анализ резюме с hh
+# Проект 2. Анализ вакансий с hh
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/SemenPanin/data_scince/tree/main/project_2#описание-проекта)  
@@ -9,7 +9,7 @@
 [6. Выводы](https://github.com/SemenPanin/data_scince/tree/main/project_2#выводы) 
 
 ### Описание проекта    
-Проанализировать резюме с hh
+Проанализировать вакансии с hh
 
 Проект на гугл диске(https://drive.google.com/drive/u/0/folders/1pDdQh51bABSYx-Jrg0xIz5azwwDhDcP5)
 

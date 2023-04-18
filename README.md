@@ -6,4 +6,4 @@
 
 *[Проект 1. Анализ резюме hh](https://github.com/SemenPanin/data_scince/tree/main/Project_1)
 
-*[Проект 2. Анализ резюме hh](https://github.com/SemenPanin/data_scince/tree/main/project_2)
+*[Проект 2. Анализ вакансий hh](https://github.com/SemenPanin/data_scince/tree/main/project_2)
