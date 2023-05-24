@@ -63,6 +63,7 @@
 
 
 ### Выводы:  
+
 У нас получилось реализовать задачу.
 
 :arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_2#проект-2-анализ-резюме-с-hh)
