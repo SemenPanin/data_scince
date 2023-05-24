@@ -1,19 +1,19 @@
-# Проект 2. Предсказание рейтинга отеля
+# Проект 3. Предсказание рейтинга отеля
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/SemenPanin/data_scince/tree/main/project_2#описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/SemenPanin/data_scince/tree/main/project_2#какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/SemenPanin/data_scince/tree/main/project_2#краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/SemenPanin/data_scince/tree/main/project_2#этапы-работы-над-проектом)  
-[5. Результат](https://github.com/SemenPanin/data_scince/tree/main/project_2#результаты)    
-[6. Выводы](https://github.com/SemenPanin/data_scince/tree/main/project_2#выводы) 
+[1. Описание проекта](https://github.com/SemenPanin/data_scince/tree/main/project_3#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/SemenPanin/data_scince/tree/main/project_3#какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/SemenPanin/data_scince/tree/main/project_3#краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/SemenPanin/data_scince/tree/main/project_3#этапы-работы-над-проектом)  
+[5. Результат](https://github.com/SemenPanin/data_scince/tree/main/project_3#результаты)    
+[6. Выводы](https://github.com/SemenPanin/data_scince/tree/main/project_3#выводы) 
 
 ### Описание проекта    
 Создать модель которая предсказывает рейтинг отеля
 
 Проект на гугл диске(https://drive.google.com/file/d/1PnHasm8m6nrFF5IfAMscQoWZLdNRlg2L/view?usp=drive_link)
 
-:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_2#проект-2-анализ-резюме-с-hh)
+:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_3#оглавление)
 
 
 ### Какой кейс решаем?    
@@ -41,7 +41,7 @@
 ### Краткая информация о данных
 1. hotels - Таблица с данными о отелях и отзывах.
 
-:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_2#проект-2-анализ-резюме-с-hh)
+:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_3#оглавление)
 
 
 ### Этапы работы над проектом  
@@ -53,20 +53,20 @@
 
 4. Обучение модели.
 
-:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_2#проект-2-анализ-резюме-с-hh)
+:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_3#оглавление)
 
 
 ### Результаты:  
 Наша программа  модель предсказывает рейтинг отеля
 
-:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_2#проект-2-анализ-резюме-с-hh)
+:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_3#оглавление)
 
 
 ### Выводы:  
 
 У нас получилось реализовать задачу.
 
-:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_2#проект-2-анализ-резюме-с-hh)
+:arrow_up:[к оглавлению](https://github.com/SemenPanin/data_scince/tree/main/project_3#оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то оставляйте отзывы.
