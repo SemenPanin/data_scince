@@ -8,4 +8,4 @@
 
 *[Проект 2. Анализ вакансий hh](https://github.com/SemenPanin/data_scince/tree/main/project_2)
 
-*[Проект 3. Анализ вакансий hh](https://github.com/SemenPanin/data_scince/tree/main/project_3#проект-2-предсказание-рейтинга-отеля)
+*[Проект 3. Предсказание рейтинга отеля](https://github.com/SemenPanin/data_scince/tree/main/project_3#проект-2-предсказание-рейтинга-отеля)
