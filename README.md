@@ -1,4 +1,4 @@
-# data_scince project
+# data_science project
 
 ## Проекты
 
