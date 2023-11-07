@@ -1,12 +1,5 @@
 # Финальный проект. Задача прогнозирования стоимости жилья.
 
-## Оглавление  
-[1. Описание проекта](https://github.com/SemenPanin/data_scince/tree/main/project_4#описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/SemenPanin/data_scince/tree/main/project_4#какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/SemenPanin/data_scince/tree/main/project_4#краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/SemenPanin/data_scince/tree/main/project_4#этапы-работы-над-проектом)  
-[5. Результат](https://github.com/SemenPanin/data_scince/tree/main/project_4#результаты)    
-[6. Выводы](https://github.com/SemenPanin/data_scince/tree/main/project_4#выводы) 
 
 ### Описание проекта    
 Разработать модель, которая позволила бы агентству
